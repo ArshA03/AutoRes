@@ -591,6 +591,16 @@ files = [
 ]
 
 [[package]]
+name = "onedrivesdk"
+version = "2.0.1"
+description = "Deprecated OneDrive SDK. Install `onedrivesdk<2` for legacy versions."
+optional = false
+python-versions = "*"
+files = [
+    {file = "onedrivesdk-2.0.1-py2.py3-none-any.whl", hash = "sha256:4cd4b7a2ed326d7bb13d4006bcb5d65837e08b542d460fd49e187acb5d51e62d"},
+]
+
+[[package]]
 name = "packaging"
 version = "24.1"
 description = "Core utilities for Python packages"
@@ -703,6 +713,20 @@ files = [
     {file = "plum-dispatch-1.7.4.tar.gz", hash = "sha256:1c1d15b2842b5fa98405fd3dff6fad4887bdc77b60bd200e209d76ebfe9990fe"},
     {file = "plum_dispatch-1.7.4-py3-none-any.whl", hash = "sha256:c40dbeab269bbbf972ce0dbc078380da19ebaee1a370a2c564e1814a11bde216"},
 ]
+
+[[package]]
+name = "python-dotenv"
+version = "1.0.1"
+description = "Read key-value pairs from a .env file and set them as environment variables"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "python-dotenv-1.0.1.tar.gz", hash = "sha256:e324ee90a023d808f1959c46bcbc04446a10ced277783dc6ee09987c37ec10ca"},
+    {file = "python_dotenv-1.0.1-py3-none-any.whl", hash = "sha256:f7b63ef50f1b690dddf550d03497b66d609393b40b564ed0d674909a68ebf16a"},
+]
+
+[package.extras]
+cli = ["click (>=5.0)"]
 
 [[package]]
 name = "pyyaml"
@@ -1523,4 +1547,4 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "270f2b98bca2f3e1baa91a76a3172b4f4da717c03f3a23db5a77f551ac490438"
+content-hash = "f7cd7f0242825848e8f2d17a60d2d641f9ad637a63a8ccd65f91df5c025241a2"

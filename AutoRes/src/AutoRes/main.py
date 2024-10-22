@@ -9,10 +9,8 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()  # Loads variables from .env into os.environ
-
-api_key = os.getenv('API_KEY')
-
 OPENROUTER_API_KEY = os.getenv('API_KEY')
+
 package_dir = os.path.dirname(__file__)
 resources_folder_path = os.path.join(package_dir, 'resources')
 # resources_folder_path = os.path.join(os.path.dirname(__file__), '..', 'resources')
