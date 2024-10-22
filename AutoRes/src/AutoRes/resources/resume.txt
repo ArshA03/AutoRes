@@ -1,0 +1,68 @@
+Evaluation Warning: The document was created with Spire.Doc for Python.
+Ash Afshar
+Vancouver, BC, Canada
++1 (604) 781-9497
+ash.afshar@outlook.com
+https://www.linkedin.com/in/ash-afshar/
+https://github.com/ArshA03
+SUMMARY
+I bring skills in equipment planning, and preventive maintenance, along with a strong background in mechanical and electrical troubleshooting. My experience in maintenance scheduling, and reliability analysis, makes me well-suited for supporting construction and mining operations. I am adaptable, detail-oriented, and committed to ensuring equipment reliability and operational efficiency, making me a strong candidate for this Equipment Planner position at Kiewit.
+SKILLS
+* Technical Skills: Equipment Planning, Mechanical and Electrical Troubleshooting, Equipment Maintenance, Preventive Maintenance, Condition Monitoring, ISO Standards, SAP, Reliability Analysis, Failure Analysis, Heavy Equipment Operations, Risk Assessment
+* Operational Skills: Maintenance Scheduling, Inventory Management, Procurement and Material Handling, Purchase Order Management, Health and Safety Compliance, Project Support, Documentation, Report Generation, Inspection and Quality Assurance
+* Software: Microsoft Office Suite (Word, Excel, PowerPoint), Python, SQL, CAD (SolidWorks), ERP Systems, DAQ
+* Soft Skills: Strong Communication, Team Collaboration, Adaptability, Problem Solving, Attention to Detail, Independent Work, Time Management, Strong Work Ethic
+WORK EXPERIENCES
+Graduate Assistant,
+University of Victoria, Victoria, BC
+2023 - 2024
+* Planned and scheduled equipment maintenance for FDM 3D printers, reducing equipment downtime by 15% through regular and preventive maintenance programs.
+* Generated reliability analysis reports to document maintenance actions, enhancing transparency and contributing to improved equipment reliability.
+* Managed inventory of lab equipment and special tools, optimizing material handling and reducing material loss by 10%.
+* Collaborated with stakeholders to ensure project completion, adhering to safety standards and enhancing communication across academic teams.
+Scientific Lab Assistant,
+University of Victoria, Victoria, BC
+2022 - 2023
+* Implemented a maintenance documentation system using Python, Excel and SQL, streamlining maintenance scheduling and achieving a 70% improvement in workflow efficiency.
+* Coordinated equipment inspections with academic staff, ensuring quality assurance and compliance with ISO 9001 standards.
+* Reviewed and updated maintenance procedures for lab equipment, ensuring effective preventative maintenance and reducing downtime.
+* Conducted inspections of new equipment installations, enhancing mechanical reliability and compliance with safety standards.
+* Supported lab expansion projects, managing tools and equipment, and collaborating with cross-functional teams to enhance laboratory capabilities.
+Mechanical Engineer (Intern),
+PSA Valve Co., Tehran, Iran
+2021 - 2022
+* Developed and implemented preventative maintenance plans for rotary machinery, decreasing unplanned downtime by 20% and ensuring consistent equipment utilization.
+* Performed inspections and condition monitoring using diagnostic tools, enhancing equipment reliability and reducing failure rates.
+* Assisted in logistics management for subcontractor activities, ensuring efficient material handling and compliance with industry standards.
+* Utilized ERP systems to track maintenance schedules and resource allocation, optimizing fleet management and minimizing downtime.
+* Provided technical guidance to junior interns, fostering skills in maintenance planning, work order management, and equipment servicing.
+PROJECTS
+Mechanical System Revamp,
+BIL, University of Victoria, Victoria, BC
+2023 - 2024
+* Revamped a material testing system by integrating advanced sensors, actuators, and microcontrollers, supporting equipment reliability for research applications.
+* Developed a Data Acquisition (DAQ) system with a custom GUI using Python and C++, providing precise control and enhancing preventative maintenance programs.
+* Created detailed technical documentation and user manuals, ensuring health and safety compliance and consistent training for lab staff.
+* Analyzed reliability and failure data, implementing improvements that enhanced operational efficiency by 30%.
+* Troubleshot and resolved system issues, ensuring equipment met performance objectives and maintained reliability.
+Bachelor's Capstone Project
+2020 - 2021
+* Engineered an automated condition monitoring system for rotating equipment using Python-based algorithms, improving preventative maintenance and reducing failures by 25% in controlled environment.
+* Conducted root cause analysis on equipment failures using statistical techniques such as FFT, developing effective maintenance solutions.
+* Designed and implemented maintenance strategies for heavy machinery, optimizing equipment utilization and reducing downtime.
+* Managed project deliverables, including technical documentation and equipment testing protocols, ensuring alignment with industry standards.
+* Collaborated with a multi-disciplinary team, demonstrating skills in project management, stakeholder engagement, and effective communication.
+EDUCATION
+Bachelor of Science in Mechanical Engineering
+Mar 2021
+IKIU, Qazvin, Iran
+VOLUNTEER EXPERIENCE
+Health Equipment Client Services Volunteer,
+Canadian Red Cross, Victoria, BC
+2023 - Present
+* Enhanced patient care by providing dedicated client service and managing health equipment, demonstrating a consultative approach to service delivery. 
+* Managed logistics and maintained meticulous records of health equipment, ensuring accurate tracking and availability, supporting efficient territory management. 
+* Provided technical guidance and education to clients on the use of health equipment, enhancing their understanding and utilization. 
+REFERENCES
+Available upon request
+

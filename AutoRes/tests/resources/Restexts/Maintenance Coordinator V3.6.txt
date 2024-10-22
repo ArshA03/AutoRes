@@ -1,0 +1,73 @@
+Evaluation Warning: The document was created with Spire.Doc for Python.
+Ash Afshar
+Victoria, BC, Canada
++1 (604) 781-9497
+ash.afshar@outlook.com
+https://www.linkedin.com/in/ash-afshar/
+https://github.com/ArshA03
+SUMMARY
+I bring skills in mechanical and electrical troubleshooting, preventive maintenance planning, and project support, combined with experience in ERP, inventory management, and health and safety compliance. My ability to manage stakeholders, generate comprehensive technical documentation, and maintain clear stakeholder engagement makes me a well-rounded candidate for this role. I am eager to contribute to effective maintenance coordination and help ensure smooth operations as a Maintenance Coordinator at Thales.
+SKILLS
+* Technical Skills: Mechanical and Electrical Troubleshooting, Test Equipment, Equipment Maintenance, Preventive Maintenance Planning, Condition Monitoring, ISO Standards, SAP, ERP
+* Operational Skills: Maintenance Scheduling, Work Order Management, Facility Maintenance, Inventory Management, Purchase Order Management, Health and Safety Compliance, Project Support, Documentation and Report Generation, Inspection and Quality Assurance
+* Software: Microsoft Office Suite (Word, Excel, PowerPoint), Python, SQL, Data Acquisition (DAQ) Systems
+* Customer Service: Customer Relationship Management (CRM), Service Contract Promotion, Stakeholder Engagement, Vendor Relationship Management
+* Soft Skills: Strong Communication, Team Collaboration, Adaptability, Problem Solving, Attention to Detail, Independent Work, Time Management
+WORK EXPERIENCES
+Graduate Assistant,
+University of Victoria, Victoria, BC
+2023 - 2024
+* Supported the Service Delivery Team by maintaining and troubleshooting FDM 3D printers, ensuring peak equipment uptime and a 15% reduction in equipment downtime through regular preventive maintenance.
+* Generated maintenance reports and Objective Quality Evidence (OQE) to document completed tasks, enhancing transparency in maintenance activities and contributing to better quality assurance.
+* Managed lab equipment inventory and special tools, maintaining an accurate material management system that reduced material loss and improved resource availability.
+* Coordinated work tasks with internal stakeholders, including professors and students, to ensure that projects were completed in compliance with health and safety requirements and environmental regulations.
+* Created and maintained maintenance instruction manuals and work item closure reports to support academic projects, contributing to improved lab efficiency and resource utilization.
+Scientific Lab Assistant,
+University of Victoria, Victoria, BC
+2022 - 2023
+* Implemented a data management system using Microsoft Excel and SQL to streamline maintenance documentation, resulting in a 70% improvement in lab document control and workflow efficiency.
+* Coordinated with academic staff for work package support, ensuring maintenance tasks were performed to the required quality standards and compliant with ISO 9001 standards.
+* Reviewed and updated maintenance instructions for lab equipment, ensuring service providers had the necessary paperwork and materials to complete tasks safely and effectively.
+* Provided inspection and quality assurance support, conducting inspections of new equipment installations to ensure compliance with safety standards and improving overall equipment reliability.
+* Supported lab expansions by managing tools and equipment, developing maintenance plans, and collaborating with cross-functional teams to enhance laboratory capabilities.
+Mechanical Engineer (Intern),
+PSA Valve Co., Tehran, Iran
+2021 - 2022
+* Developed and implemented preventive maintenance planning for rotary machinery, decreasing unplanned downtime by 20% and ensuring consistent equipment maintenance standards.
+* Performed inspections and condition monitoring on rotary equipment using test tools such as tachometers, ensuring alignment with industry standards and improving equipment reliability.
+* Assisted in coordinating with subcontractors for the installation and servicing of monitoring systems, managing tool usage, and ensuring that maintenance activities were conducted efficiently.
+* Utilized an ERP system to track maintenance schedules and resource allocation, ensuring efficient use of tools and minimizing downtime.
+* Provided technical guidance and training to junior interns, fostering skills in maintenance scheduling, work order management, and equipment servicing.
+PROJECTS
+Master's Capstone Project,
+BIL, University of Victoria, Victoria, BC
+2023 - 2024
+* Revamped the material testing system for the Biomechanics and Instrumentation Lab by integrating advanced sensors, actuators, and microcontrollers, supporting ship refit and repair capabilities.
+* Developed a personalized software GUI and API for a Data Acquisition (DAQ) system using Python and C++, providing precise control and enhancing maintenance management systems.
+* Generated detailed technical documentation and user manuals, aligning with health and safety compliance standards and ensuring consistent user training for laboratory staff.
+* Gathered and analyzed feedback from lab users to continuously improve system performance and subcontractor coordination, enhancing operational efficiency by 15%.
+* Ensured the reliability of the testing system by troubleshooting and resolving issues related to sensor calibration, ensuring that all work period objectives were met.
+Bachelor's Capstone Project
+2020 - 2021
+* Engineered an automated condition monitoring system for rotating equipment, utilizing Python-based algorithms and machine learning to improve preventive maintenance and reduce equipment failures by 30%.
+* Conducted a root cause analysis on equipment failures using statistical techniques such as FFT to develop effective maintenance solutions and increase system reliability.
+* Designed and implemented maintenance strategies for heavy machinery, leveraging predictive maintenance insights to optimize maintenance schedules and reduce downtime.
+* Managed project deliverables, including technical documentation, equipment testing protocols, and presentations, ensuring alignment with industry standards and defense contract requirements.
+* Collaborated with a multi-disciplinary team to execute project plans, demonstrating skills in project coordination and effective stakeholder engagement.
+EDUCATION
+Master of Engineering in Biomedical Systems, GPA: 8.63/9
+May 2024
+University of Victoria, Victoria, BC
+Bachelor of Science in Mechanical Engineering
+Mar 2021
+IKIU, Qazvin, Iran
+VOLUNTEER EXPERIENCE
+Health Equipment Client Services Volunteer,
+Canadian Red Cross, Victoria, BC
+2023 - Present
+* Enhanced patient care by providing dedicated client service and managing health equipment, demonstrating a consultative approach to service delivery. 
+* Managed logistics and maintained meticulous records of health equipment, ensuring accurate tracking and availability, supporting efficient territory management. 
+* Provided technical guidance and education to clients on the use of health equipment, enhancing their understanding and utilization. 
+REFERENCES
+Available upon request
+
