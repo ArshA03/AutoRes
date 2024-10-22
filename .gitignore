@@ -1,1 +1,8 @@
 AutoRes/src/AutoRes/.env
+AutoRes/src/AutoRes/resources/Restexts/Equipment_Planner_V3.6.txt
+AutoRes/src/AutoRes/resources/Restexts/Maintenance Coordinator V3.6.txt
+AutoRes/src/AutoRes/resources/texts/keywords.txt
+AutoRes/src/AutoRes/resources/texts/peer_skills.txt
+AutoRes/src/AutoRes/resources/texts/skills.txt
+AutoRes/src/AutoRes/resources/texts/tailored_res.txt
+AutoRes/src/AutoRes/.env
