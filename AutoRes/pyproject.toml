@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "autores"
+version = "0.1.0"
+description = ""
+authors = ["Ash Afshar <arsha03@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+spire-doc = "^12.7.1"
+sentence-transformers = "^3.2.1"
+scikit-learn = "^1.5.2"
+numpy = "^2.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
