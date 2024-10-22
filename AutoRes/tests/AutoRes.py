@@ -7,8 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 import os
 
-OPENROUTER_API_KEY = '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'
-
+OPENROUTER_API_KEY = os.getenv('API_KEY')
 folder_path = "tests/resources/docs/"
 output_folder_path = "tests/resources/Restexts/"
 

@@ -1,7 +1,7 @@
 from spire.doc import *
 from spire.doc.common import *
 
-def doctxt(FilePath: str):
+def doctxt(FilePath: str, OutputPath: str):
     # Create a Document object
     document = Document()
     # Load a Word document
@@ -11,7 +11,7 @@ def doctxt(FilePath: str):
     document_text = document.GetText()
 
     # Write the extracted text into a text file
-    with open("src/AutoRes/resources/resume.txt", "w", encoding="utf-8") as file:
+    with open(OutputPath, "w", encoding="utf-8") as file:
         file.write(document_text)
 
     document.Close()

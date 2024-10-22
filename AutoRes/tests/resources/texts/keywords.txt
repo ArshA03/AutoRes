@@ -1,55 +1,56 @@
-- Equipment Planner
-- Fraser Health
-- Clinical equipment
-- Planning process
-- Specifications
-- Inventory assessment
-- Capital projects
-- Equipment budget
-- Installation
-- Project equipment database
-- Contractual risk
-- Technical risk
-- Budget planning
-- Design integration
-- Equipment specifications
-- User group
-- Operational plan
-- Business cases
-- Evidence-based information
-- Critical path issues
-- Project schedules
-- Cost targets
-- Equipment-related problems
-- Justification reports
-- Clinical Planners
-- Facilities Planners
-- Procurement strategy
-- Funding source
-- Facility design
-- Equipment space
-- Functional requirements
-- Safety protocols
-- Equipment selection
-- User training
-- Risk management
-- Status reports
-- Medical equipment
-- Technological advances
-- Equipment forecasting
-- Leadership
+- Entry Level Equipment Planner
+- Kiewit Equipment Services
+- Construction
+- Mining operations
+- Planning
+- Scheduling
+- Budgeting
+- Utilization
+- Reliability
+- Equipment fleet
+- Preventative maintenance programs
+- Compliance
+- Health and safety
+- Environmental requirements
+- Material handling
+- Procurement
+- Documentation
+- Equipment inspection
+- Logistics management
 - Communication
-- Project management
-- Analytical skills
-- Critical thinking
-- Evaluation skills
-- Independent work
-- Collaboration
-- Prioritization
-- Rapport building
-- Physical ability
-- Continuous learning
-- Committee participation
-- Diversity
-- Equity
-- Respectful workplace
+- Long-range planning
+- Short-range planning
+- Equipment availability
+- Reliability data
+- Communication between supervision and management
+- Craft maintenance technicians
+- Inventory management
+- Quality control
+- Specialty projects
+- Undergraduate degree
+- Diesel/Automotive Technology
+- Heavy Equipment Technology
+- Mechanical Engineering Technology
+- Construction Management
+- Experience
+- Strong work ethic
+- Organizational skills
+- Time management
+- Attention to detail
+- Multi-tasking
+- Willingness to travel
+- Willingness to relocate
+- Office environment
+- Field environment
+- CAD modeling programs
+- Regular attendance
+- Productive work
+- Deadlines
+- Professional interaction
+- Team environment
+- Safety
+- Oral and written instructions
+- Overtime
+- Location flexibility
+- Compensation
+- Benefits package

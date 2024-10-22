@@ -1,7 +1,8 @@
 import requests
 import json
+import os
 
-OPENROUTER_API_KEY = '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'
+OPENROUTER_API_KEY = os.getenv('API_KEY')
 
 def get_completion(prompt):
     url = "https://openrouter.ai/api/v1/chat/completions"
