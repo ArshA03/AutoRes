@@ -1,1 +1,106 @@
-Error: 401 - {"error":{"message":"Invalid credentials","code":401}}
+Technical Skills:
+• Preventive Maintenance Programs
+• Equipment Life Cycle Analysis
+• Fleet Optimization
+• Work Order Management
+• Asset Management Systems
+• Maintenance Planning Software
+• CMMS Systems
+• Predictive Maintenance
+• Root Cause Analysis
+• Equipment Performance Metrics
+• KPI Tracking
+• Technical Documentation
+• Warranty Management
+• Compliance Monitoring
+• Cost Analysis
+• Lean Maintenance Practices
+• TPM (Total Productive Maintenance)
+• Reliability Centered Maintenance
+• Equipment Specifications
+• Parts Inventory Control
+• SOP Development
+• Quality Management Systems
+• SAP/ERP Systems
+• AutoCAD
+• MS Project
+• Maximo
+• JD Edwards
+• Oracle
+• PeopleSoft
+• Equipment Utilization Tracking
+• Maintenance Scheduling
+• Cost-Benefit Analysis
+• Budget Forecasting
+• Vendor Management
+• Service Level Agreements
+• Risk Assessment
+• Safety Protocols
+• ISO Standards
+• OSHA Regulations
+
+Operational Skills:
+• Resource Allocation
+• Capacity Planning
+• Production Scheduling
+• Workflow Optimization
+• Change Management
+• Process Improvement
+• Performance Monitoring
+• Quality Control
+• Supply Chain Management
+• Project Coordination
+• Emergency Response Planning
+• Downtime Reduction
+• Cost Reduction Initiatives
+• Continuous Improvement
+• Cross-functional Team Leadership
+• Operational Excellence
+• Lean Six Sigma Methods
+• 5S Implementation
+• Standard Operating Procedures
+• Training Program Development
+
+Soft Skills:
+• Strategic Planning
+• Team Building
+• Stakeholder Management
+• Conflict Resolution
+• Training & Mentoring
+• Performance Reviews
+• Meeting Facilitation
+• Client Relations
+• Contract Negotiations
+• Business Development
+• Leadership
+• Problem-Solving
+• Decision Making
+• Time Management
+• Priority Setting
+• Crisis Management
+• Change Leadership
+• Cultural Awareness
+• Strategic Thinking
+• Analytical Skills
+
+Industry Knowledge:
+• Industry Best Practices
+• Maintenance Methodologies
+• Equipment Testing Standards
+• Environmental Regulations
+• Safety Standards
+• Industry Trends
+• Emerging Technologies
+• Sustainability Practices
+• Mobile Equipment Operations
+• Heavy Equipment Specifications
+• Construction Methods
+• Mining Operations
+• Material Handling Systems
+• Logistics Management
+• Supply Chain Operations
+• Maintenance Engineering
+• Asset Reliability
+• Equipment Life Cycle Management
+• Cost Control Methods
+• Risk Management

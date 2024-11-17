@@ -1,1 +1,57 @@
-Error: 401 - {"error":{"message":"Invalid credentials","code":401}}
+Equipment Planning
+Scheduling
+Budgeting
+Fleet Management
+Preventative Maintenance
+Construction
+Mining
+Material Handling
+Procurement
+Tool Lists
+Filter Lists
+Documentation
+Equipment Inspection
+Parts Inspection
+Logistics Management
+Critical Lifts
+Reliability Analysis
+Failure Analysis
+Equipment Availability
+Inventory Management
+Crew Scheduling
+Quality Control
+Safety Compliance
+Diesel Technology
+Automotive Technology
+Heavy Equipment
+Mechanical Engineering
+Construction Management
+CAD Modeling
+Time Management
+Project Management
+Health Requirements
+Environmental Requirements
+Equipment Yard
+Site Access
+Craft Maintenance
+Parts Ordering
+Communication
+Supervision
+Team Environment
+Deadlines
+Problem-Solving
+Organization
+Task Prioritization
+Technical Documentation
+Field Operations
+Site Safety
+Compliance
+Asset Management
+Equipment Utilization
+Mechanical Reliability
+Fleet Operations
+Resource Planning
+Equipment Maintenance
+Equipment Reliability
+Work Planning
+Operational Efficiency

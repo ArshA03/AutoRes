@@ -1,1 +1,44 @@
-Error: 401 - {"error":{"message":"Invalid credentials","code":401}}
+Technical Skills:
+• Equipment Fleet Management
+• Preventative Maintenance Planning
+• Inventory Control Systems
+• CAD Software
+• Technical Documentation
+• Material Handling Procedures
+• Equipment Inspection Protocols
+• Logistics Management
+• Critical Lift Planning
+• Reliability Analysis
+• Maintenance Scheduling
+• Budgeting & Cost Control
+• Parts Procurement
+• Safety Compliance
+• Quality Control
+• Equipment Performance Monitoring
+
+Soft Skills:
+• Project Management
+• Time Management
+• Communication
+• Problem-Solving
+• Team Leadership
+• Task Prioritization
+• Organizational Skills
+• Adaptability
+• Detail-Oriented
+• Cross-Functional Collaboration
+• Decision Making
+• Critical Thinking
+• Resource Planning
+• Process Improvement
+• Vendor Relations
+• Staff Coordination
+
+Software/Tools:
+• Microsoft Office Suite
+• Maintenance Management Software
+• Fleet Management Systems
+• Scheduling Software
+• Inventory Management Systems
+• Database Management
+• ERP Systems

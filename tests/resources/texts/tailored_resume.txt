@@ -1,1 +1,38 @@
-Error: 401 - {"error":{"message":"Invalid credentials","code":401}}
+Based on the job description and your resume, I'll rewrite your experience sections to better align with the Equipment Planner role. Here are the enhanced bullet points:
+
+Graduate Assistant Experience:
+• Implemented comprehensive **preventative maintenance** programs for lab **equipment**, resulting in 15% reduction in downtime and improved **equipment reliability**
+• Developed and maintained detailed **technical documentation** and **equipment inspection** protocols for 3D printing lab, ensuring compliance with **safety** and **quality control** standards
+• Managed **inventory** of specialized tools and equipment parts, implementing an efficient **parts ordering** system that reduced procurement time by 25%
+• Coordinated cross-functional **team environment** activities between faculty and students, demonstrating strong **communication** and **task prioritization** skills
+• Created detailed **maintenance schedules** and **resource planning** strategies, optimizing **equipment utilization** and lab efficiency
+
+Scientific Lab Assistant Experience:
+• Established data-driven **equipment planning** system using Excel and SQL, improving **operational efficiency** by 70%
+• Conducted regular **equipment inspections** and **failure analysis**, implementing corrective measures to enhance **mechanical reliability**
+• Developed comprehensive **tool lists** and **filter lists** for lab equipment, streamlining **material handling** and maintenance processes
+• Led **critical lifts** and equipment installation projects, ensuring compliance with **health requirements** and **environmental requirements**
+• Managed **logistics** for laboratory expansion projects, including **procurement** and coordination with external vendors
+
+Mechanical Engineer (Intern) Experience:
+• Designed and implemented **fleet management** strategies for rotary machinery, reducing unplanned maintenance by 20%
+• Performed **reliability analysis** and condition monitoring using specialized diagnostic tools, improving overall **equipment availability**
+• Coordinated **crew scheduling** and **craft maintenance** activities, ensuring efficient completion of maintenance tasks
+• Utilized ERP systems for **work planning** and **asset management**, optimizing resource allocation
+• Developed comprehensive **preventative maintenance** schedules and **budgeting** forecasts for equipment operations
+
+Master's Capstone Project:
+• Designed material testing system incorporating **heavy equipment** sensors and controls for maritime applications
+• Developed custom software interface for **equipment maintenance** monitoring and control using Python
+• Created detailed **documentation** and training materials compliant with industrial **safety compliance** standards
+• Implemented **quality control** measures resulting in 15% improvement in system reliability
+• Managed project **deadlines** and stakeholder requirements through effective **project management**
+
+Bachelor's Capstone Project:
+• Engineered automated monitoring system for **fleet operations**, reducing equipment failures by 30%
+• Conducted comprehensive **reliability analysis** using advanced statistical methods
+• Implemented predictive maintenance strategies for **heavy equipment**, optimizing maintenance schedules
+• Managed technical **documentation** and testing protocols aligned with industry standards
+• Led cross-functional team in **construction management** and project execution
+
+These revisions emphasize relevant technical skills and align with the job requirements while maintaining quantifiable achievements and demonstrating both technical and soft skills required for the Equipment Planner role.

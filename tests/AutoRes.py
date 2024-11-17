@@ -5,9 +5,15 @@ from res_score.doctxt import doctxt
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
+from dotenv import load_dotenv
+
 import os
 
-OPENROUTER_API_KEY = os.getenv('API_KEY')
+# loading variables from .env file
+load_dotenv() 
+
+OPENROUTER_API_KEY = os.getenv("API_KEY")
+print(OPENROUTER_API_KEY)
 folder_path = "tests/resources/docs/"
 output_folder_path = "tests/resources/Restexts/"
 
@@ -27,7 +33,9 @@ def get_completion(messages):
         completion = response.json()
         return completion.get('choices')[0].get('message').get('content')
     else:
+        raise Exception(f"Error: {response.status_code} - {response.text}")
         return f"Error: {response.status_code} - {response.text}"
+
 
 def analyze_job_description(job_description, chat_history):
     prompt = f"You are a career coach with 10 years of experience refining resumes for applicants. Analyze the following job description in detail;\n{job_description}"
